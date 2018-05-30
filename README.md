@@ -13,7 +13,7 @@ A `ScrollView`-like component that:
 ## Installation
 
 ```
-$ npm install react-native-parallax-scroll-view --save
+$ npm install solonifer@react-native-parallax-scroll-view --save
 ```
 
 **Note:** For React Native 0.19.0 and earlier, you'll want to use `react-native-parallax-scroll-view@0.17.4`. Version `0.18.0` changes the scrolling API to be compatible with React Native 0.20.0.
@@ -28,7 +28,7 @@ $ npm install react-native-parallax-scroll-view --save
 ## Basic Usage
 
 ```js
-import ParallaxScrollView from 'react-native-parallax-scroll-view';
+import ParallaxScrollView from 'solonifer@react-native-parallax-scroll-view';
 
 // Inside of a component's render() method:
 render() {
