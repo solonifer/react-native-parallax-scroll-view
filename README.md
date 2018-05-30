@@ -28,7 +28,7 @@ $ npm install solonifer/react-native-parallax-scroll-view --save
 ## Basic Usage
 
 ```js
-import ParallaxScrollView from 'solonifer/react-native-parallax-scroll-view';
+import ParallaxScrollView from '@solonifer/react-native-parallax-scroll-view';
 
 // Inside of a component's render() method:
 render() {
